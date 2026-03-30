@@ -1,4 +1,4 @@
-# Software Defect Prediction with CatBoost - Challenge Task
+# Software Defect Prediction Competition Challenge
 
 This project provides a machine learning model for predicting software defects using the CatBoost algorithm. It is designed to work well with imbalanced datasets, especially those from the PROMISE repository.
 
